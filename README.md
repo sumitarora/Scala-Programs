@@ -2,12 +2,12 @@ Scala-Programs
 ==============
 * Area.scala: Program to find area and circumference of square, rectangle, triangle or circle? 
 
-* Floyd1.scala: Program to print floyd triangle as below.
- 1 
- 2   3 
- 4   5   6 
- 7   8   9   10 
- 11  12  13  14  15
+* Floyd1.scala: Program to print floyd triangle as below.<br>
+ 1<br> 
+ 2   3<br> 
+ 4   5   6<br> 
+ 7   8   9   10<br> 
+ 11  12  13  14  15<br>
 
 * Floyd2.scala: Program to print floyd triangle as below.
  1 
